@@ -1,6 +1,6 @@
 // Web version only (the iPhone app does not register this). Network first, so a new build shows up as soon as
 // you are online; the cache keeps the game playable offline.
-const CACHE = "castle-busters-5";
+const CACHE = "castle-busters-6";
 const CORE = ["./", "index.html", "matter.min.js", "manifest.json", "icons/icon-192.png", "icons/icon-512.png",
   "fonts/grenze-gotisch-latin-600-normal.woff2", "fonts/grenze-gotisch-latin-800-normal.woff2",
   "fonts/barlow-semi-condensed-latin-500-normal.woff2", "fonts/barlow-semi-condensed-latin-600-normal.woff2",
